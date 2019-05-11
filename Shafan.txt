@@ -1,0 +1,63 @@
+-[ RECORD 1 ]------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+order_id           | 29891-844223-GOBILLS
+sender_wallet_id   | 180680666320022823
+receiver_wallet_id | 172970468410000413
+status             | PENDING
+comment            |
+amount             | 35000
+total_amount       | 37500
+admin_fee          | 2500
+product_tag        |
+category_tag       | PDAM
+product_name       |
+product_image_url  | http://ubiquity-campaigns-production.imgix.net/jakarta_Palyja.png
+open_bill_meta     | {"customerId": "000068231", "meterUsage": 30.0, "penaltyFee": {"amount": 2000.0, "symbol": "Rp", "currency": "IDR"}, "customerName": "Palyja #000068231", "currentMeterReading": 1280.0, "previousMeterReading": 1250.0}
+private_bill_meta  | {"locale": "en", "inquiryReference": "20181024130158204973204973204099", "externalProductCode": "2055"}
+aggregator         | mkm
+created_at         | 2018-10-24 06:01:24.458
+updated_at         | 2018-10-24 06:05:29.927
+tax                | 0
+biller_tag         | JAKARTA_PALYJA
+is_dynamic         | 1
+-[ RECORD 2 ]------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+order_id           | 29890-899022-GOBILLS
+sender_wallet_id   | 182010495270024027
+receiver_wallet_id | 172970468410000413
+status             | PENDING
+comment            |
+amount             | 35000
+total_amount       | 37500
+admin_fee          | 2500
+product_tag        |
+category_tag       | PDAM
+product_name       |
+product_image_url  | http://ubiquity-campaigns-production.imgix.net/jakarta_Palyja.png
+open_bill_meta     | {"customerId": "000068230", "meterUsage": 30.0, "penaltyFee": {"amount": 2000.0, "symbol": "Rp", "currency": "IDR"}, "customerName": "Palyja #000068230", "currentMeterReading": 1280.0, "previousMeterReading": 1250.0}
+private_bill_meta  | {"locale": "en", "inquiryReference": "20181024125921204973204973204068", "externalProductCode": "2055"}
+aggregator         | mkm
+created_at         | 2018-10-24 05:58:47.295
+updated_at         | 2018-10-24 06:03:22.288
+tax                | 0
+biller_tag         | JAKARTA_PALYJA
+is_dynamic         | 1
+-[ RECORD 3 ]------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+order_id           | 30048-004246-GOBILLS
+sender_wallet_id   | 180680666320022823
+receiver_wallet_id | 172970468410000413
+status             | PENDING
+comment            |
+amount             | 35000
+total_amount       | 37500
+admin_fee          | 2500
+product_tag        |
+category_tag       | PDAM
+product_name       |
+product_image_url  | http://ubiquity-campaigns-production.imgix.net/jakarta_Palyja.png
+open_bill_meta     | {"billPeriod": "XX102018", "customerId": "000068232", "meterUsage": 30.0, "penaltyFee": {"amount": 2000.0, "symbol": "Rp", "currency": "IDR"}, "customerName": "Palyja #000068232", "currentMeterReading": 1280.0, "previousMeterReading": 1250.0}
+private_bill_meta  | {"locale": "en", "inquiryReference": "20181024175325204973204973204090", "externalProductCode": "2055"}
+aggregator         | mkm
+created_at         | 2018-10-24 10:52:52.978
+updated_at         | 2018-10-24 10:56:57.931
+tax                | 0
+biller_tag         | JAKARTA_PALYJA
+is_dynamic         | 1
